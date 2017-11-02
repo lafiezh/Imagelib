@@ -1,2 +1,3 @@
 # Imagelib
-This is a image repo for my markdown files.:)(ideas come from zhihu.com)
+This is a image repo for my markdown files:)
+(an idea from zhihu.com)
